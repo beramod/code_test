@@ -1,9 +1,10 @@
-### 2015 Contest
+### Algorithmic skills
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
-1 | LongestPassword | Easy | O | 
-2 | FloodDepth | Midium | O | O(N)
-3 | SlalomSkiing | Hard | X | pass...
+1 | ArrListLen | Easy | O | 
+2 | CountBoundedSlices | Medium |  | 
+3 | TreeLongestZigZag | Medium |  | 
+4 | CountriesCount | Hard |  | 
 
 ### Coding skills
 No | 문제 | 레벨 | 완료 | 비고
@@ -19,5 +20,12 @@ No | 문제 | 레벨 | 완료 | 비고
 2 | StrSymmetryPoint | Easy | O(length(S)) | 
 3 | TreeHeight | Easy | O | 
 4 | ArrayInversionCount | Medium | O | O(NlogN). inversion count 문제는 무조건 merge sort로
-5 | DisppearingPairs | Hard |  | 
-6 | PolygonConcavityIndex | Hard |  | 
+5 | DisppearingPairs | Hard | O | O(N)
+6 | PolygonConcavityIndex | Hard | X | gg
+
+### 2015 Contest
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | LongestPassword | Easy | O | 
+2 | FloodDepth | Midium | O | O(N)
+3 | SlalomSkiing | Hard | X | pass...
