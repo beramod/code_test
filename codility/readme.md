@@ -2,9 +2,9 @@
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
 1 | ArrListLen | Easy | O | 
-2 | CountBoundedSlices | Medium |  | 
-3 | TreeLongestZigZag | Medium |  | 
-4 | CountriesCount | Hard |  | 
+2 | CountBoundedSlices | Medium | X | gg... performance 충족을 못하겠음. O(NlogN) or O(N)으로 설계해야함ㅜ
+3 | TreeLongestZigZag | Medium | O | O(N)
+4 | CountriesCount | Hard | O | O(N*M)
 
 ### Coding skills
 No | 문제 | 레벨 | 완료 | 비고
