@@ -1,3 +1,10 @@
+### Bitwise operations(bit-ops)
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | BinaryGap | Easy | O | 
+2 | CountConformingBitmasks | Medium |  | 
+3 | SparseBinaryDecomposition | Hard |  | 
+
 ### Algorithmic skills
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
