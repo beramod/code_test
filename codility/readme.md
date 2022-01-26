@@ -2,7 +2,7 @@
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
 1 | BinaryGap | Easy | O | 
-2 | CountConformingBitmasks | Medium |  | 
+2 | CountConformingBitmasks | Medium | O | O(log(A + B + C))
 3 | SparseBinaryDecomposition | Hard |  | 
 
 ### Algorithmic skills
