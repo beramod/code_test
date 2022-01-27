@@ -1,3 +1,4 @@
+## Exercises
 ### Bitwise operations(bit-ops)
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
@@ -36,3 +37,19 @@ No | 문제 | 레벨 | 완료 | 비고
 1 | LongestPassword | Easy | O | 
 2 | FloodDepth | Midium | O | O(N)
 3 | SlalomSkiing | Hard | X | pass...
+
+## Lessons
+
+### Lesson2: Arrays
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | CyclicRotation | Easy | O | 
+2 | OddOccurrencesInArray | Easy | O | O(N) or O(N*log(N))
+
+### Lesson3: Time Complexity
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | FrogJmp | Easy | O | O(1)
+2 | PermMissingElem | Easy |  | 
+3 | TapeEquilibrium | Easy |  | 
+

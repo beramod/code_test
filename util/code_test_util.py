@@ -23,7 +23,7 @@ class CodeTestUtil:
         return data_case
 
     def __check_solve(self, anwser, correct):
-        if type(correct) == list:            
+        if type(correct) == list and type(correct) != list:
             return (anwser in correct)
         return (anwser == correct)
 
