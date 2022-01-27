@@ -3,7 +3,7 @@ No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
 1 | BinaryGap | Easy | O | 
 2 | CountConformingBitmasks | Medium | O | O(log(A + B + C)). 문제에서 A, B, C 값의 범위를 제시하고 있는데, 최대 범위에 맞춰 bit 자릿수를 맞춰줘야한다.
-3 | SparseBinaryDecomposition | Hard |  | 
+3 | SparseBinaryDecomposition | Hard | O | O(log(N)) or O(1)
 
 ### Algorithmic skills
 No | 문제 | 레벨 | 완료 | 비고
