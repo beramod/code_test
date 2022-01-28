@@ -38,6 +38,22 @@ No | 문제 | 레벨 | 완료 | 비고
 2 | FloodDepth | Midium | O | O(N)
 3 | SlalomSkiing | Hard | X | pass...
 
+### 2016 Contest
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | RectangleBuilderGreaterArea | Medium |  | 
+2 | DwarfsRafting | Hard |  | 
+3 | HilbertMaze | Hard |  | 
+4 | TreeProduct | Hard |  | 
+
+### 2017 Contest
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | TennisTournament | Elementary | O | 
+2 | SocksLaundering | Midium | O | 
+3 | ArrayRecovery | Hard |  | 
+4 | DiamondsCount | Hard |  | 
+
 ## Lessons
 
 ### Lesson2: Arrays
