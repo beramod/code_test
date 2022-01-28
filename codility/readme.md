@@ -74,6 +74,6 @@ No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
 1 | FrogRiverOne | Easy |  | 
 2 | PermCheck | Easy |  | 
-3 | MaxCounters | Medium |  | 
+3 | MaxCounters | Medium | O | O(N + M). 모든 연산자가 max_counter인 경우에 대한 예외처리만 잘 해주면 된다.
 4 | MissingInteger | Medium |  | 
 
