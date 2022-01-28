@@ -69,3 +69,11 @@ No | 문제 | 레벨 | 완료 | 비고
 2 | PermMissingElem | Easy |  | 
 3 | TapeEquilibrium | Easy |  | 
 
+### Lesson4: Counting Elements
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | FrogRiverOne | Easy |  | 
+2 | PermCheck | Easy |  | 
+3 | MaxCounters | Medium |  | 
+4 | MissingInteger | Medium |  | 
+
