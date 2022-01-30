@@ -67,7 +67,7 @@ No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
 1 | FrogJmp | Easy | O | O(1)
 2 | PermMissingElem | Easy |  | 
-3 | TapeEquilibrium | Easy |  | 
+3 | TapeEquilibrium | Easy | O | O(N)
 
 ### Lesson4: Counting Elements
 No | 문제 | 레벨 | 완료 | 비고
@@ -75,5 +75,29 @@ No | 문제 | 레벨 | 완료 | 비고
 1 | FrogRiverOne | Easy |  | 
 2 | PermCheck | Easy |  | 
 3 | MaxCounters | Medium | O | O(N + M). 모든 연산자가 max_counter인 경우에 대한 예외처리만 잘 해주면 된다.
-4 | MissingInteger | Medium |  | 
+4 | MissingInteger | Medium | O | O(N) or O(NlogN)
 
+### Lesson5: Prefix Sums
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | PassingCars | Easy |  | 
+2 | CountDiv | Medium | O | O(1)
+3 | GenomicRangeQuery | Medium | O | O(N + M)
+4 | MinAvgTwoSlice | Medium | O | O(N)
+
+### Lesson6: Sorting
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | Distinct | Easy | O | O(NlogN) or O(N)
+2 | MaxProductOfThree | Easy |  | 
+3 | Triangle | Easy |  | 
+4 | NumberOfDiscIntersections | Medium | X | O(NlogN) or O(N).다른사람 풀이를 보고 겨우 이해...
+
+
+### Lesson7: Stacks and Queues
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | Brackets | Easy |  | 
+2 | Fish | Easy |  | 
+3 | Nesting | Easy |  | 
+4 | StoneWall | Easy |  | 
