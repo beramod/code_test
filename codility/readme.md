@@ -99,5 +99,11 @@ No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
 1 | Brackets | Easy |  | 
 2 | Fish | Easy |  | 
-3 | Nesting | Easy |  | 
-4 | StoneWall | Easy |  | 
+3 | Nesting | Easy | O | O(N)
+4 | StoneWall | Easy | X | O(N)
+
+### Lesson8: Leader
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | Dominator | Easy |  | 
+2 | EquiLeader | Easy | O | O(N)
