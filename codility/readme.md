@@ -132,8 +132,8 @@ No | 문제 | 레벨 | 완료 | 비고
 ### Lesson14: Binary search algorithm
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
-1 | MinMaxDivision | Medium |  | 
-2 | NailingPlanks | MediumEasy |  | 
+1 | MinMaxDivision | Medium | O | O(Nlog(N + M))
+2 | NailingPlanks | Medium | X | gg
 
 ### Lesson16: Greedy Algorithms
 No | 문제 | 레벨 | 완료 | 비고
