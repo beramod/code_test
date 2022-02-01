@@ -105,5 +105,44 @@ No | 문제 | 레벨 | 완료 | 비고
 ### Lesson8: Leader
 No | 문제 | 레벨 | 완료 | 비고
 ---|---|---|---|---
-1 | Dominator | Easy |  | 
+1 | Dominator | Easy |  | leader의 모든 index를 반환하는 문제. hash map 쓰면 될듯
 2 | EquiLeader | Easy | O | O(N)
+
+### Lesson9: Maximum slice problem
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | MaxProfit | Easy |  | 
+2 | MaxSliceSum | Easy | X | O(N)
+3 | MaxDoubleSliceSum | Medium | X | O(N)
+
+### Lesson10: Prime and composite numbers
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | CountFactors | Easy |  | 
+2 | MinPerimeterRectangle | Easy |  | 
+3 | Flags | Medium | O | O(N)
+4 | Peaks | Medium | X | 
+
+### Lesson11: Sieve of Eratosthenes
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | CountNonDivisible | Medium | X | O(N**2)
+2 | CountSemiprimes | Medium |  | 
+
+### Lesson14: Binary search algorithm
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | MinMaxDivision | Medium |  | 
+2 | NailingPlanks | MediumEasy |  | 
+
+### Lesson16: Greedy Algorithms
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | MaxNonoverlappingSegments | Easy | O | O(N)
+2 | TieRopes | Easy | O | O(N)
+
+### Lesson17: Dynamic Programming
+No | 문제 | 레벨 | 완료 | 비고
+---|---|---|---|---
+1 | NumberSolitaire | Medium | O | O(N)
+2 | MinAbsSum | Hard | X | O(N^2 * max(abs(A)))
